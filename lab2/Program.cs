@@ -11,7 +11,6 @@ namespace NccLab
         SingleInheritance();
         MultilevelInheritance();
         HierarchicalInheritance();
-        OverloadOverrideExample();
         System.Console.WriteLine("Do you want to continue?(Y/N):");
         choice= Console.ReadLine();
         }while(choice.ToUpper()=="Y");
@@ -52,17 +51,6 @@ static void SingleInheritance(){
                p1.breathe();
                p1.grow();    
           }
-           private static void OverloadOverrideExample()
-        {
-            Living_Things l1 = new Living_Things();
-            Living_Things l2 = new Living_Things(10);
-            Animal1 a1 = new Animal1();
-            Animal1 a2 = new Animal1(20);
-            Plant p1 = new Plant();
-            Plant p2 = new Plant(30);
-            Vertibrates v1 = new Vertibrates();
-            l1.PublicVariable = 10;
-        }
              
     }
 
