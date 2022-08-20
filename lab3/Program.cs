@@ -7,7 +7,7 @@ namespace NccLab
              string choice="N";
         do{
 
-    //    MultipleInheritance();
+       MultipleInheritance();
        DelegateExample();
         System.Console.WriteLine("Do you want to continue?(Y/N):");
         choice= Console.ReadLine();
