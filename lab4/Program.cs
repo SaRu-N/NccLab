@@ -15,35 +15,10 @@ namespace NccLab
         }
         private static void StackImplementation()
         {
-            var cs = new CustomStack();
-          
-            cs.Push(10);
-            cs.Push(3);
-            cs.Pop();
-            cs.Push(4);
-            cs.Push(7);
-            // cs.Push(6);
-            // cs.Push(9);
-            // cs.Push(10);
-
-            cs.Pop();
-            cs.Pop();
-            cs.Pop();
-            // cs.Pop();
-            // cs.Pop();
-            // cs.Pop();
-            // cs.Pop();
-            // cs.Pop();
-            var css = new CustomStackString();
-            css.Push("Hello");
-            css.Push("I am Saraswati");
-            css.Push("Niroula");
-            css.Pop();
-            css.Pop();
-            css.Push("I am Saraswati Niroula");
+        
            
-           var tcs = new CustomStackTemplated<int>();
-           var tcs1= new CustomStackTemplated<string>();
+           var tcs = new CustomStack<int>();
+           var tcs1= new CustomStack<string>();
            tcs.Push(10);
            tcs.Push(20);
            tcs.Pop();
@@ -51,7 +26,6 @@ namespace NccLab
            tcs.Pop();
            tcs1.Push("hello");
            tcs1.Push("From Templated Stack");
-           
         }
     }
 }
