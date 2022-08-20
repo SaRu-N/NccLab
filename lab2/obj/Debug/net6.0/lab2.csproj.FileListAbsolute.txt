@@ -1,0 +1,15 @@
+/home/saru/Documents/SixthSEm/NCC/lab/lab2/bin/Debug/net6.0/lab2
+/home/saru/Documents/SixthSEm/NCC/lab/lab2/bin/Debug/net6.0/lab2.deps.json
+/home/saru/Documents/SixthSEm/NCC/lab/lab2/bin/Debug/net6.0/lab2.runtimeconfig.json
+/home/saru/Documents/SixthSEm/NCC/lab/lab2/bin/Debug/net6.0/lab2.dll
+/home/saru/Documents/SixthSEm/NCC/lab/lab2/bin/Debug/net6.0/lab2.pdb
+/home/saru/Documents/SixthSEm/NCC/lab/lab2/obj/Debug/net6.0/lab2.csproj.AssemblyReference.cache
+/home/saru/Documents/SixthSEm/NCC/lab/lab2/obj/Debug/net6.0/lab2.GeneratedMSBuildEditorConfig.editorconfig
+/home/saru/Documents/SixthSEm/NCC/lab/lab2/obj/Debug/net6.0/lab2.AssemblyInfoInputs.cache
+/home/saru/Documents/SixthSEm/NCC/lab/lab2/obj/Debug/net6.0/lab2.AssemblyInfo.cs
+/home/saru/Documents/SixthSEm/NCC/lab/lab2/obj/Debug/net6.0/lab2.csproj.CoreCompileInputs.cache
+/home/saru/Documents/SixthSEm/NCC/lab/lab2/obj/Debug/net6.0/lab2.dll
+/home/saru/Documents/SixthSEm/NCC/lab/lab2/obj/Debug/net6.0/refint/lab2.dll
+/home/saru/Documents/SixthSEm/NCC/lab/lab2/obj/Debug/net6.0/lab2.pdb
+/home/saru/Documents/SixthSEm/NCC/lab/lab2/obj/Debug/net6.0/lab2.genruntimeconfig.cache
+/home/saru/Documents/SixthSEm/NCC/lab/lab2/obj/Debug/net6.0/ref/lab2.dll
