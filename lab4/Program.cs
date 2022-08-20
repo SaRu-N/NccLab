@@ -7,7 +7,8 @@ namespace NccLab
              string choice="N";
         do{
 
-       StackImplementation();
+    //    StackImplementation();
+       CustomQueueImplementation();
         System.Console.WriteLine("Do you want to continue?(Y/N):");
         choice= Console.ReadLine();
         }while(choice.ToUpper()=="Y");
@@ -26,6 +27,25 @@ namespace NccLab
            tcs.Pop();
            tcs1.Push("hello");
            tcs1.Push("From Templated Stack");
+        }
+      static void CustomQueueImplementation(){
+ CustomQueue <int> Q1= new CustomQueue<int>();
+        Q1.enqueue(5);
+        Q1.enqueue(10);
+        Q1.enqueue(20);
+        Q1.display();
+        Q1.dequeue();
+        Q1.dequeue();
+        Q1.display();
+
+
+        CustomQueue<string> Q2=new CustomQueue<string>();
+        Q2.enqueue("Hello");
+        Q2.display();
+        Q2.enqueue("There!");
+        Q2.display();
+        Q2.dequeue();
+        Q2.display();
         }
     }
 }
