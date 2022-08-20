@@ -1,0 +1,15 @@
+/home/saru/Documents/SixthSEm/NCC/lab/lab3/bin/Debug/net6.0/lab3
+/home/saru/Documents/SixthSEm/NCC/lab/lab3/bin/Debug/net6.0/lab3.deps.json
+/home/saru/Documents/SixthSEm/NCC/lab/lab3/bin/Debug/net6.0/lab3.runtimeconfig.json
+/home/saru/Documents/SixthSEm/NCC/lab/lab3/bin/Debug/net6.0/lab3.dll
+/home/saru/Documents/SixthSEm/NCC/lab/lab3/bin/Debug/net6.0/lab3.pdb
+/home/saru/Documents/SixthSEm/NCC/lab/lab3/obj/Debug/net6.0/lab3.csproj.AssemblyReference.cache
+/home/saru/Documents/SixthSEm/NCC/lab/lab3/obj/Debug/net6.0/lab3.GeneratedMSBuildEditorConfig.editorconfig
+/home/saru/Documents/SixthSEm/NCC/lab/lab3/obj/Debug/net6.0/lab3.AssemblyInfoInputs.cache
+/home/saru/Documents/SixthSEm/NCC/lab/lab3/obj/Debug/net6.0/lab3.AssemblyInfo.cs
+/home/saru/Documents/SixthSEm/NCC/lab/lab3/obj/Debug/net6.0/lab3.csproj.CoreCompileInputs.cache
+/home/saru/Documents/SixthSEm/NCC/lab/lab3/obj/Debug/net6.0/lab3.dll
+/home/saru/Documents/SixthSEm/NCC/lab/lab3/obj/Debug/net6.0/refint/lab3.dll
+/home/saru/Documents/SixthSEm/NCC/lab/lab3/obj/Debug/net6.0/lab3.pdb
+/home/saru/Documents/SixthSEm/NCC/lab/lab3/obj/Debug/net6.0/lab3.genruntimeconfig.cache
+/home/saru/Documents/SixthSEm/NCC/lab/lab3/obj/Debug/net6.0/ref/lab3.dll
